@@ -10,3 +10,5 @@ Type `make`.  This will build the executable: nextleast.
 
 Type `nextleast`, which will build the binary search tree and then
 find the "next" least element.   Order is assumed.
+
+Done.
